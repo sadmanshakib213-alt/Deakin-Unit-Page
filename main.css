@@ -19,6 +19,6 @@ p {
 
 /* ✅ UI Designer Addition: Green background + right-align for header div */
 div {
-  background-color: darkcyan;
+  background-color: blue;
   text-align: right;
 }
